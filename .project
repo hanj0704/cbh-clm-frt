@@ -57,6 +57,11 @@
 			<locationURI>EBFRAG_BUILD_OF_cbh-bip-frt</locationURI>
 		</link>
 		<link>
+			<name>clx-src/app</name>
+			<type>2</type>
+			<locationURI>EBFRAG_SRC_OF_cbh-bip-frt/app</locationURI>
+		</link>
+		<link>
 			<name>clx-src/env.json</name>
 			<type>1</type>
 			<locationURI>EBFRAG_SRC_OF_cbh-bip-frt/env.json</locationURI>
